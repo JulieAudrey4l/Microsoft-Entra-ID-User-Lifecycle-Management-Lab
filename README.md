@@ -24,5 +24,7 @@ This project demonstrates how to use Microsoft Entra ID as an administrator to c
   8. Reset users passwords: Require all new users to sign in with a temporary password and require password change at next sign in. This allows user accounts and systems to be secure by ensuring account privacy, blocking unauthorized access and stays in compliance with security rules.
      
 ![password](screenshots/04.1_reset_password.png)
+
 ![password](screenshots/04.2_reset_password_confirmation.png)
-    The expected outcome is that when the user goes to sign into their account, they will be prompted to create a new password used to sign into their account until the password expires due to the age.
+
+The expected outcome is that when the user goes to sign into their account, they will be prompted to create a new password used to sign into their account until the password expires due to the age.
