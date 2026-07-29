@@ -30,3 +30,10 @@ This project demonstrates how to use Microsoft Entra ID as an administrator to c
 ![password](screenshots/04.2_reset_password_confirmation.png)
 
 The expected outcome is that when the user goes to sign into their account, they will be prompted to create a new password used to sign into their account until the password expires due to the age.
+
+##Skills Demonstrated
+- Microsoft Entra ID Administration
+- Identity and Access Management (IAM)
+- User Lifecycle Management
+- Security Group Administration
+- Password Management
